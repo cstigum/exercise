@@ -1,0 +1,2 @@
+# exercise
+Git documentation class
